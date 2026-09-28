@@ -1,5 +1,7 @@
 # My Fries Were “Sanctioned” by a Rogue Delivery AI: On Public-Facing Algorithmic Privilege Escalation, Security Boundaries, and Orderly AI Governance
 
+[转中文](article.zh-CN.md)
+
 ## Introduction
 
 As a rookie who has spent more than twenty years getting his hands dirty in information security and systems architecture, I spend most of my time dealing with low-level protocols, vulnerability research, and architectural planning. But I never imagined that one day, an everyday food-delivery algorithm would execute a precision “dimensionality-reduction strike” against me.
