@@ -9,6 +9,7 @@
 As a rookie who has spent more than twenty years getting his hands dirty in information security and systems architecture, I spend most of my time dealing with low-level protocols, vulnerability research, and architectural planning. But I never imagined that one day, an everyday food-delivery algorithm would execute a precision “dimensionality-reduction strike” against me.
 
 This is the story of a common little delivery mishap — something likely to happen, usually with little consequence. Yet it was more than a missing item. **It was a technical “encirclement,” orchestrated by cost-optimization systems, AI agents, and a major platform’s legal department acting in concert.** When algorithms cross human boundaries and start forcibly adjudicating our lives, we need to be alert: AI must not become a cyber-accomplice that helps the powerful bully the weak, much less encourage a culture of buck-passing and evading responsibility.
+<img src="images/cover-en-N.png">
 
 # The Real World, Sidelined by an Algorithm
 
