@@ -107,7 +107,7 @@ I am making this public not to wage a campaign over a bag of fries, but, as a te
 One last homework assignment, exclusively for the hardcore bros who made it to the end: In an on-demand service, does a refund really restore the consumer to the position they would have been in if the contract had been performed correctly? Legal folks, the stage is yours. 🍿  
 — — —
 
->*With attribution (Original author:* RootPcap@protonmail.com*), feel free to share, republish, adapt into videos, or quote this piece in any form. No separate permission is required. My only hope is that the logic concealed by algorithms can be seen by more people, sparking deep discussions across the legal profession, cybersecurity community, and wider society.*
+>*With attribution (Original author:RootPcap@protonmail.com), feel free to share, republish, adapt into videos, or quote this piece in any form. No separate permission is required. My only hope is that the logic concealed by algorithms can be seen by more people, sparking deep discussions across the legal profession, cybersecurity community, and wider society.*
 
 >***Only by speaking up can we see the dawn. Only by acting can we break the deadlock.***
 
